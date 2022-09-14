@@ -1,4 +1,4 @@
-# Personalized-Notion-to-GoogleCal
+# Personalized-Notion-to-GoogleCal -- Very Specific Format
 1. School schedule Table exported from Notion as csv
 2. Run notionToICS.py (not actually ics. but an excel) 
 3. notionToICS.py turns data from notion table to correct excel format to be imported to google calendar
